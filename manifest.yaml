@@ -1,5 +1,5 @@
 ---
 applications:
-  - name: base64
-    path: target/base64-0.0.1-SNAPSHOT.jar
+  - name: emailservice
+    path: target/emailservice-0.0.1-SNAPSHOT.jar
     random-route: true
